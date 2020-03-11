@@ -12,6 +12,7 @@ This Folder contains the apps which are built in java. Firstly I am learning and
 #### Java Folder
 
 **Day 1**
+
 **My Application**
 - This app contains all the basic of how an activty works.
 - Thing I've learned: 
@@ -27,6 +28,7 @@ This Folder contains the apps which are built in java. Firstly I am learning and
 - 5. Gradle scripts: Gradle automates the task for us. In android we use gradle to generate an apk. Gradle takes the .java and XML files and converts the java files into dex files and compresses all of them into a single apk file 
 
 **Day 2**
+
 **My Application2**
 - Things Iv'e learned: 
 - Creating a login page(just the view)
