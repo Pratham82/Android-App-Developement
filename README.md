@@ -39,3 +39,17 @@ This Folder contains the apps which are built in java. Firstly I am learning and
 - Adding string reources using the IDE feature
 - The changed resource will be shown  in res/values/strings.xml
 
+**Day 3**
+
+**My Application3**
+- Things Iv'e learned: 
+- How to use java code in order to design user interface
+- How to add simple button in our layout
+- How to set setContentView to current layout
+- For aligning the button we are using layoutparams
+- Layout changed form the MainActivity.java file cannot be seen inside the XML layout
+- WRAP_CONTENT used for wrapping the widgets in the content which is specified
+
+Notes:
+XML layout is mostly used when our app is static.
+We create app layout using Java code instead of XML for the apps which have dynamic layout.
